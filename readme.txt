@@ -1,1 +1,1 @@
-programmirovanie
+obrabotka
